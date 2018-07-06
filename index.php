@@ -56,9 +56,9 @@
           <div class="col-6 col-md">
             <h5>Homework</h5>
             <ul class="list-unstyled text-small">
-              <!-- <li><a class="text-muted" href="#">Resource</a></li>
-              <li><a class="text-muted" href="#">Resource name</a></li>
-              <li><a class="text-muted" href="#">Another resource</a></li>
+              <li><a class="text-muted" href="hw1/index.html">1&#58; Recipe</a></li>
+              <li><a class="text-muted" href="hw2/tmnt.html">2&#58; Movie Review</a></li>
+              <!-- <li><a class="text-muted" href="#">Another resource</a></li>
               <li><a class="text-muted" href="#">Final resource</a></li> -->
             </ul>
           </div>

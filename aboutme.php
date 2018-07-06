@@ -11,6 +11,7 @@
     <title>WAP, 986075!</title>
   </head>
   <body>
+
   <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
       <h5 class="my-0 mr-md-auto font-weight-normal">MUM: WAP Course</h5>
       <nav class="my-2 my-md-0 mr-md-3">
@@ -101,6 +102,7 @@
             <img class="mb-2" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg" alt="" width="24" height="24">
             <small class="d-block mb-3 text-muted">&copy; 2017-2018</small>
           </div>
+          
           <div class="col-6 col-md">
             <h5>Resources</h5>
             <ul class="list-unstyled text-small">
