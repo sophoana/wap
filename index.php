@@ -67,6 +67,7 @@
             <h5>Lab</h5>
             <ul class="list-unstyled text-small">
               <li><a class="text-muted" href="aboutme.php">About Me</a></li>
+              <li><a class="text-muted" href="lab2/journal.html">Lab 2</a></li>
             </ul>
           </div>
         </div>
