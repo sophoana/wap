@@ -41,10 +41,11 @@ $overview_lines = file($overview_path);
             $review_files = glob($review_path);
             foreach ($review_files as $key => $value) {
                 $lines = file($value);
+                $img_line = strtolower($lines[1]) . ".gif";
                 ?>
                     <li>
                     <p>
-                        <img src="img/<?= $lines[1] ?>.gif" alt="fresh" /> 
+                        <img src="img/<?=$img_line?>" alt="fresh" /> 
                         <?= $lines[0] ?>
                     </p>
                     <div>
