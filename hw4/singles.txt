@@ -43,10 +43,11 @@ Sarah Connor,F,53,ISFP,Windows,49,67
 Seven of Nine,F,40,ISTJ,Windows,12,50
 Stewie Griffin,M,1,INTP,Mac OS X,1,59
 Stuart Reges,M,48,INFP,Mac OS X,18,35
-Tpol,F,35,ISTJ,Windows,30,39
+Tpol,M,35,ISTJ,Windows,30,39
 Trinity,F,42,ESFP,Linux,35,55
 Tyler Durden,M,46,ENFP,Mac OS X,20,39
 Valentina Tereshkova,F,71,ENTJ,Mac OS X,55,65
 Vint Cerf,M,67,ISFP,Mac OS X,28,55
 Yukihiro Matsumoto,M,45,ENTP,Mac OS X,10,25
 Zelda,F,59,ESTP,Windows,40,62
+Qelda,M,59,ESsTP,Windows,40,62
