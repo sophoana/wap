@@ -14,12 +14,6 @@ if ($_POST) {
 
     $hash_pass = hash("sha256", $password . $name); 
 
-    // // Testing Result
-    // print_r($result);
-    // print_r($hash_pass); 
-    // echo("<br>");
-    // print_r($result['pass']);
-
     // if (strcmp($hash_pass, $result['pass']) == 0) {
     //     $user_data = $result;
     // }
