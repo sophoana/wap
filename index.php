@@ -61,6 +61,7 @@
               <li><a class="text-muted" href="hw3/index.php">3&#58; Movie Review PHP</a></li>
               <li><a class="text-muted" href="hw4/index.php">4&#58; NerdLuv</a></li>
               <li><a class="text-muted" href="hw5/index.php">5&#58; NerdLuv DB</a></li>
+              <li><a class="text-muted" href="hw6/index.php">6&#58; NerdLuv Session</a></li>
               <!-- <li><a class="text-muted" href="#">Final resource</a></li> -->
             </ul>
           </div>
@@ -73,6 +74,7 @@
               <li><a class="text-muted" href="lab3/music.php">Lab 3</a></li>
               <li><a class="text-muted" href="lab4/buyagrade.html">Lab 4</a></li>
               <li><a class="text-muted" href="lab5/">Lab 5</a></li>
+              <li><a class="text-muted" href="lab6/decoratemytext.htm">Lab 6</a></li>
             </ul>
           </div>
         </div>
