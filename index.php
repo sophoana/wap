@@ -62,6 +62,7 @@
               <li><a class="text-muted" href="hw4/index.php">4&#58; NerdLuv</a></li>
               <li><a class="text-muted" href="hw5/index.php">5&#58; NerdLuv DB</a></li>
               <li><a class="text-muted" href="hw6/index.php">6&#58; NerdLuv Session</a></li>
+              <li><a class="text-muted" href="hw7/index.php">7&#58; NerdLuv MVC</a></li>
               <!-- <li><a class="text-muted" href="#">Final resource</a></li> -->
             </ul>
           </div>
