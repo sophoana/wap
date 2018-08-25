@@ -1,0 +1,25 @@
+textarea {
+    font-size: 12pt;
+}
+
+textarea.bigger {
+    font-size: 4em;
+}
+
+textarea.bold {
+    font-weight: bold;
+}
+
+textarea.green {
+    color: green;
+}
+
+textarea.underline {
+    text-decoration: underline;
+}
+
+body.background{
+    background: 
+        url('http://www.cs.washington.edu/education/courses/190m/CurrentQtr/labs/6/hundred-dollar-bill.jpg') 
+        no-repeat fixed center;
+}
